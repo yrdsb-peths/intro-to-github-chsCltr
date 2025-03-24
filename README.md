@@ -23,3 +23,11 @@ You made changes and committed (saved) them to the repository.
 2. Make your first name lowercase. Commit the changes.
 
 3. View the commit history by clicking the `Code` tab and then clicking `X Commits`
+
+I am making more changes to "README.md"
+System.out.println("Hello World!");
+int count = 8;
+if (count => 2)
+{
+    System.out.println("the count is greater than 2);
+}
